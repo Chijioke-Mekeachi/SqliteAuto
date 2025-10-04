@@ -1,0 +1,20 @@
+{
+  "name": "sqliteauto",
+  "version": "1.0.0",
+  "description": "A smart Node.js utility for automated SQLite database creation, access, and management using classes and intuitive methods.",
+  "main": "sqliteAuto.js",
+  "type": "commonjs",
+  "author": "Your Name mekelachichijioke@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "keywords": [
+    "sqlite",
+    "nodejs",
+    "database",
+    "automation",
+    "orm",
+    "sqliteauto"
+  ]
+}
